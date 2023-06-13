@@ -1,5 +1,6 @@
 
 ## MySQL資料庫系統架構
+![image](https://github.com/Penny3939/MySQL/assets/125810833/357351ec-295d-4e2a-8c5c-897bfe573b93)
 ![image](https://github.com/Penny3939/MySQL/assets/125810833/ded35fe0-57d4-4ea2-8f1b-3620fe3108e3)
 
 ## 重點整理
